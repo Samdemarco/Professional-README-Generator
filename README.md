@@ -4,6 +4,8 @@
   
   Here is a snapshot of the application:
 ![README Generator](README_Generator_Snapshot.png)
+
+Link to Screencastify/Castify Video of application in action: https://app.castify.com/view/a30dd45f-7a74-45dd-930d-a8911ed53b9c  
   
   ## Description
    This project is a command-line based application that dynamically generates a professional looking README.md file based on a user's input using the 'inquirer npm package'.
