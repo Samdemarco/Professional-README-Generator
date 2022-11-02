@@ -69,5 +69,5 @@ THEN I am taken to the corresponding section of the README
 
   Contact me via email for any issues: sam.demarco@gmail.com<br /><br />
   
-  # NOTE: The main structure of this README file was created using my 'README Generator' 
+  ### NOTE: The main structure of this README file was created using my 'README Generator' 
       
