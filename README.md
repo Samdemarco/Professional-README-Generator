@@ -1,6 +1,10 @@
-<h1>Professional README Generator </h1>
+<h1>09 Node.js Challenge: Professional README Generator </h1>
   
   ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
+  
+  Here is a snapshot of my finsihed dashboard:
+![README Generator](README Generator.png)
+  
   ## Description
    This project is a command-line based application that dynamically generates a professional looking README.md file based on a user's input using the 'inquirer npm package'.
   ## Table of Contents
