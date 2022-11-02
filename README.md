@@ -5,6 +5,8 @@
   Here is a snapshot of the application:
 ![README Generator](README_Generator_Snapshot.png)
 
+## Video Link
+
 Link to Screencastify/Castify Video of application in action: https://app.castify.com/view/a30dd45f-7a74-45dd-930d-a8911ed53b9c  
   
   ## Description
