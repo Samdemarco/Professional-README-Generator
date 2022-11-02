@@ -8,6 +8,10 @@
   ## Description
    This project is a command-line based application that dynamically generates a professional looking README.md file based on a user's input using the 'inquirer npm package'.
    
+   ## Challenges
+
+Overall this was a pretty straight forward assignment with the one exception of properly being able to generate the correct URL License links. I wanted to ensure that once a user selected a specific license that I could also provide a URL link to that license however, I couldn't use a simple 1:1 insertion of say 'Mozilla' into the URL since the actual text designator in the URL for Mozilla is 'MPL-2.0' (https://opensource.org/licenses/MPL-2.0).  
+   
 ## User Story
 
 ```
@@ -47,7 +51,7 @@ THEN I am taken to the corresponding section of the README
   - [Tests](#tests)
   - [Questions](#questions)
   ## Installation
-   The applications requires npm install and is launched via CLI using command ```'node index.js'```
+   The applications requires npm install and is launched via CLI using command ```node index.js```
   ## Usage
    Quickly generate README files
   ## License
